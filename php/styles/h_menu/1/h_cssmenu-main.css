@@ -23,8 +23,8 @@
     -moz-border-radius: 10px;
     border-radius: 10px;
 	display: block;
-	width: 115px; /*Width of top level menu link items*/
-	padding: 8px 0px 8px 8px;
+	width: 95px; /*Width of top level menu link items*/
+	padding: 5px 0px 5px 5px;
 	border: 0px solid #808080;
 	border-left-width: 0;
 	text-decoration: none;
@@ -78,7 +78,7 @@
 /* Sub level menu links style */
 .h_cssmenu ul li ul li a{
 	width: 150px; /*width of sub menu levels*/
-	padding: 8px 0px 8px 8px;
+	padding: 5px 0px 5px 5px;
 	background: white;
 	border-width: 0 1px 1px 1px;
 	color: black;

@@ -30,7 +30,7 @@ define('LOGO', '/images/small-logo.png');
 // ====================================================================================================
 define('ALLOW_CALLOUT_UPDATES_AFTER_FINISHED', false);
 
-define( 'JWT_KEY', 'ca174907-e44b-4227-8c52-62cbc9e0dd64' );
+define( 'JWT_KEY', 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx' );
 
 // ====================================================================================================
 // ===                     ENABLE JAVASCRIPT OR IFRAME MAPPING STYLES                               ===
